@@ -45,6 +45,7 @@ import android.hardware.SensorManager;
 
 // Adding a superfluous comment to test Git
 // Modifying said superfluous comment
+// Making yet another 
 public class Balls extends Activity implements SensorEventListener {
     //EventListener mListener = new EventListener();
 
