@@ -20,6 +20,7 @@ import android.content.res.Resources;
 import android.renderscript.*;
 import android.util.Log;
 
+// hotFix2 branch comment
 public class BallsRS {
     public static final int PART_COUNT = 900;
 
