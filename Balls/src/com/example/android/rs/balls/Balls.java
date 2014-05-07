@@ -47,6 +47,9 @@ import android.hardware.SensorManager;
 // Modifying said superfluous comment
 // Different comment
 // Making yet another silly comment
+// One more comment
+// hotFix comment - this is really important stuff!!
+// normal work comment, finally being finished
 public class Balls extends Activity implements SensorEventListener {
     //EventListener mListener = new EventListener();
 
