@@ -46,6 +46,7 @@ import android.hardware.SensorManager;
 // Adding a superfluous comment to test Git
 // Modifying said superfluous comment
 // Different comment
+// Making yet another silly comment
 // One more comment
 // hotFix comment - this is really important stuff!!
 // normal work comment, finally being finished
